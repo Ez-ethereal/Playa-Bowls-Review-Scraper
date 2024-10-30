@@ -1,0 +1,281 @@
+Location Address,stars,number_of_reviews
+"460 John Henry Way, Suite 390 Madison, AL",4.8,114
+"100 Outfield Drive, Suite D Madison, AL",4.8,200
+"1949 West Ray Road, Unit 39 Chandler, AZ",4.9,143
+"24750 S Ellsworth Road Suite A101 Queen Creek, AZ",4.9,560
+"8870 N 90th Street, Suite 103 Scottsdale, AZ",4.6,226
+"14505 East Alameda Ave Aurora, CO",4.8,249
+"4852 S Newport St. Unit D Denver, CO",4.5,30
+"5845 W 25th Avenue Edgewater, CO",4.7,281
+"2490 W Main St Littleton, CO",4.7,305
+"99 S. Broadway Suite 115 Denver, CO",4.5,293
+"380 W Main Street Avon, CT",4.8,191
+"1029 Boston Post Rd Darien, CT",4.4,151
+"57 Unquowa Rd Fairfield, CT",4.6,495
+"140 Glastonbury Blvd Glastonbury , CT",4.7,359
+"1 Dog Lane, Suite 102 Storrs, CT",4.8,195
+"51 Memorial Road West Hartford, CT",4.8,771
+"832 Kohl Avenue Middletown, DE",4.9,899
+"4837 Limestone Road Wilmington, DE",4.9,90
+"220 Rehoboth Avenue Rehoboth Beach, DE",4.7,318
+"117 East Main Street Newark, DE",4.8,1026
+"3614 Concord Pike Wilmington , DE",4.9,408
+"143 N St. SE District of Columbia, DC",4.4,50
+"4857 Massachusetts Avenue NW Washington, DC",4.8,115
+"895 E Palmetto Park Rd Boca Raton, FL",4.8,808
+"1100 N Congress Blvd Boynton Beach, FL",4.9,128
+"3600 N. University Drive, Suite 410 Cooper City, FL",4.8,77
+"6620 SW 57th Ave South Miami, FL",4.8,329
+"3111 N University Drive Ste. 112 Coral Springs, FL",4.7,592
+"15 S. Pointe Drive Dania Beach, FL",4.8,158
+"2471 S University Drive Davie, FL",4.6,551
+"123 NE 20th Ave, Suite 9 Deerfield Beach, FL",4.5,406
+"1134 E Atlantic Ave Delray Beach, FL",4.7,244
+"1615 North Federal Hwy Fort Lauderdale, FL",4.4,769
+"10041 University Dr. Suite 160 Fort Myers, FL",4.7,221
+"1260 SW 5th Ave, Suite 110 Gainesville, FL",4.6,171
+"4720 Town Crossing Dr, Suite 125 Jacksonville, FL",4.8,168
+"71 E Indiantown Road Jupiter, FL",4.9,138
+"401 E Las Olas Blvd, Unit 185 Fort Lauderdale, FL",4.6,64
+"100 Commercial Blvd Lauderdale-By-The-Sea, FL",4.6,171
+"3111 NE 1st Avenue Miami, FL",4.5,169
+"14881 Biscayne Blvd North Miami Beach, FL",4.6,170
+"700 Pier Park Drive, Unit D 186 Panama City Beach, FL",4.9,42
+"10053 Cleary Blvd Plantation, FL",4,42
+"2240 N Federal Highway Pompano Beach, FL",4.8,12
+"58 Main Street Rosemary Beach, FL",4.6,163
+"1427 S Tamiami Trail Sarasota, FL",4.8,183
+"145 Beachwalk Shore Dr. Suite 105 St Johns, FL",4.3,44
+"4655 Gulf Boulevard, Suite 104 St. Pete Beach, FL",4.8,200
+"1925 NW Federal Highway Stuart, FL",4.8,214
+"699 W Gaines St Unit 101 Tallahassee, FL",4.6,236
+"2261 Town Center Ave Melbourne, FL",4.6,110
+"2653 Bruce B. Downs Boulevard, Units 106 & 107 Wesley Chapel, FL",4.9,235
+"9982 Glades Road Boca Raton, FL",4.7,260
+"196 Alps Road Athens, GA",4.9,130
+"661 Auburn Ave, Suite 160 Atlanta, GA",4.4,581
+"5070 Peachtree Blvd Chamblee, GA",4.6,650
+"12660 Crabapple Road Alpharetta, GA",4.9,151
+"6365 Halcyon Way Suite 930 Alpharetta, GA",4.8,342
+"5160 Town Center Blvd. Suite 530 Peachtree Corners, GA",4.5,532
+"6400 Blue Stone Rd Suite 140 Sandy Springs, GA",4.7,86
+"1170 Temple Drive, Suite 200B Sugar Hill, GA",4.7,55
+"1735 North Damen Ave Chicago, IL",4.9,29
+"3900 Fountain Blue Lane, Suite 120 Lexington, KY",4.8,176
+"4600 Shelbyville Road, Suite 645 Jefferson County, KY",4.6,493
+"12939 Shelbyville Road Suite 103 Louisville, KY",4.9,355
+"660B Arlington Creek Centre Blvd Baton Rouge, LA",4.9,853
+"69284 LA- 21 STE 800 Covington, LA",5,10
+"2207 Kaliste Saloom Road Lafayette, LA",4.9,27
+"730 Veterans Memorial Blvd Metairie, LA",4.9,385
+"5601 Magazine Street New Orleans, LA",4.9,159
+"1752 Lindberg Drive Slidell, LA",4.9,171
+"2494 Solomons Island Road Annapolis, MD",4.8,351
+"8525 Chevy Chase Lake Terrace Chevy Chase, MD",4.8,65
+"12193 Darnestown Rd. Gaithersburg, MD",4.7,217
+"28601 Marlboro Ave Easton, MD",4.9,246
+"9338 Baltimore National Pike Suite H Ellicott City, MD",4.9,196
+"14014 Detrick Ave Suite 200 Kensington, MD",4.4,304
+"11651 Coastal Highway Ocean City, MD",4.8,57
+"11436 Samuel Bowen Blvd Unit 2 Berlin, MD",5,361
+"18147 Town Center Drive Olney, MD",4.6,186
+"7733 Tuckerman Lane Potomac, MD",4.8,412
+"2632 Quarry Lake Drive Baltimore, MD",4.6,367
+"1012 S. Salisbury Blvd Salisbury, MD",4.9,413
+"4507 College Avenue College Park, MD",4.7,613
+"65 University Drive Amherst, MA",4.9,8
+"2199 Commonwealth Ave Brighton, MA",4.7,510
+"635 Washington Street Canton, MA",4.8,122
+"406 State Rd Dartmouth, MA",4.9,322
+"1775 Washington Street, Unit 750 Hanover, MA",4.8,74
+"71 Mt. Auburn St Cambridge, MA",4.5,218
+"532 Adams Street Milton, MA",4.6,332
+"277 Huntington Ave Boston, MA",4.8,486
+"1285 Belmont Street Brockton, MA",4.8,676
+"180 Linden Street Wellesley, MA",4.6,103
+"745 High Street Westwood, MA",4.8,228
+"600 Main Street Winchester, MA",4.8,257
+"1200 S University Ave Ann Arbor, MI",4.7,97
+"4087 Maple Road Bloomfield Township, MI",4.9,291
+"225 E Grand River Ave East Lansing, MI",4.8,352
+"39761 Traditions Drive Northville , MI",4.9,552
+"47996 Grand River Ave Novi, MI",5,5
+"2607 S. Rochester Road Rochester Hills, MI",4.9,317
+"222 E State Street Suite 101 Traverse City, MI",4.9,324
+"281 Big Beaver Road Troy, MI",4.8,227
+"235 Ocean Blvd Hampton, NH",4.8,112
+"555 Hooksett Rd Manchester, NH",4.9,528
+"262 Amherst Street Nashua, NH",4.9,393
+"200 Via Toscana, Building 1000 Salem, NH",4.8,195
+"701 Cookman Ave Asbury Park, NJ",4.6,266
+"1200 Ocean Ave Asbury Park, NJ",4.6,205
+"68 Bridge Ave Bay Head, NJ",4.7,493
+"535 Broadway Bayonne, NJ",4.9,480
+"806 N. Bay Ave Beach Haven, NJ",4.7,244
+"803 Ocean Ave Belmar, NJ",4.3,519
+"645 Mantoloking Rd Brick, NJ",4.8,879
+"307 Beach Ave Unit 2 Cape May, NJ",4.5,54
+"Market Place at Garden State Park, 2010 Route 70 West, Suite B Cherry Hill, NJ",4.8,1160
+"102B Union Ave N Cranford, NJ",4.7,935
+"4 Broadway Denville, NJ",4.7,934
+"587 Route 18 South East Brunswick, NJ",4.7,881
+"384 William Street East Orange, NJ",4.8,19
+"2688 Woodbridge Avenue Edison, NJ",4.7,849
+"505 N Broad Street Elizabeth, NJ",4.3,473
+"38 E Palisade Ave Englewood, NJ",4.6,795
+"75 Reaville Ave Flemington, NJ",4.9,387
+"182 Ridgedale Ave Florham Park, NJ",4.8,222
+"833 Franklin Lakes Rd Franklin Lakes, NJ",4.7,364
+"Freehold Raceway Mall, 3710 US-9 Freehold, NJ",4.5,354
+"150 Main Street SuIte #2 Hackensack, NJ",4.6,265
+"Holmdel Towne Center, 35N Holmdel, NJ",4.6,305
+"4701 US-9 N Howell, NJ",4.9,364
+"2720 John F Kennedy Blvd. Jersey City, NJ",4.9,177
+"44M Manchester Ave Forked River, NJ",4.8,541
+"603 Grand Central Ave Lavallette, NJ",4.7,200
+"1607 Ocean Ave Belmar, NJ",5,13015
+"191 Beach Front Manasquan, NJ",4.8,112
+"455 County Rd 520 Marlboro, NJ",4.7,472
+"300 Route 73 Suite I Marlton, NJ",4.7,214
+"329 Millburn Ave Millburn, NJ",4.3,520
+"28 South Park Montclair, NJ",4.5,1096
+"21 Belle Mead-Griggstown Road Belle Mead, NJ",4.8,411
+"14 N Park Place Morristown, NJ",4.7,441
+"610 Nassau Park Blvd Princeton , NJ",4.8,275
+"5 Lakeside Drive S. North Bergen, NJ",4.5,63
+"2005 NJ-35 Oakhurst, NJ",4.6,618
+"744 Boardwalk Ocean City, NJ",4.8,238
+"1324 S Boardwalk Ocean City, NJ",4.7,64
+"2020 Hwy 9 South, Unit 103 Old Bridge, NJ",4.9,91
+"88 Ocean Ave Long Branch, NJ",4.3,537
+"410 Ocean Ave Pt. Pleasant Beach, NJ",4.7,77
+"500 Route 23N Pompton Plains, NJ",4.8,681
+"10 Hulfish Street Princeton, NJ",4.6,341
+"14 W Front St Red Bank, NJ",4.4,302
+"305 E Ridgewood Ave Ridgewood, NJ",4.7,760
+"2360 Route 33, Unit 110 Robbinsville, NJ",4.8,123
+"328 Rowan Blvd Glassboro, NJ",4.8,870
+"53 Mine St New Brunswick, NJ",4.7,717
+"53 Bleeker St Newark, NJ",4.6,1465
+"82 Park Avenue Rutherford, NJ",4.6,1242
+"1110 Ocean Ave Sea Bright, NJ",4.2,65
+"2150 Route 35 Sea Girt, NJ",4.8,359
+"33 42nd Street Sea Isle City, NJ",4.8,90
+"819 Boardwalk Casino Pier Seaside Heights, NJ",3.7,18
+"1999 Promenade Seaside Park, NJ",4.6,277
+"137 Egg Harbor Road, Unit H Sewell, NJ",4.9,319
+"135 W Main Street Somerville, NJ",4.6,620
+"3000 State Route 27 Unit 6 South Brunswick, NJ",4.7,332
+"209 Valley Street South Orange, NJ",4.8,99
+"4 North Village Boulevard, Suite B Sparta, NJ",4.6,423
+"261 96th St Stone Harbor, NJ",4.8,214
+"518 Long Beach Blvd Surf City, NJ",4.8,86
+"224 Rt 37 E Toms River, NJ",4.8,1228
+"55 Union Blvd Totowa, NJ",4.8,244
+"1816 Palisade Ave Union City, NJ",4.5,413
+"6414 Ventnor Ave Ventnor City, NJ",4.7,140
+"194 Liberty Corner Road Warren, NJ",4.8,135
+"710 Somerset Street Watchung, NJ",4.5,276
+"796 Bloomfield Ave West Caldwell, NJ",4.8,463
+"99 Westwood Ave Westwood, NJ",4.7,254
+"531 Route 22 East Whitehouse Station, NJ",4.9,130
+"3800 Boardwalk Wildwood, NJ",4.5,152
+"97 Main Street Woodbridge, NJ",4.6,328
+"15 Park Place Bronxville, NY",4.8,554
+"870 7th Ave New York, NY",4.7,22
+"2841 Broadway New York, NY",4.7,156
+"84 Front Street Brooklyn, NY",4.3,6
+"1248 Lexington Ave New York, NY",4.6,54
+"100 Pearl Street New York, NY",4.2,53
+"423 5th Avenue Park Slope, Brooklyn, NY",4.7,173
+"299 7th Ave New York, NY",4.6,433
+"102 Willoughby Street Brooklyn, NY",4.4,59
+"50 Fulton Street New York, NY",4.5,162
+"55 Grand Central Terminal Space #: LC-49A New York, NY",4.6,54
+"493 6th Avenue New York, NY",4.6,101
+"1350 Broadway New York, NY",4.7,368
+"331 Rockaway Turnpike Lawrence , NY",4.8,382
+"108 MacDougal St New York, NY",4.6,281
+"550 W 54th St New York, NY",4.6,247
+"2259 Merrick Road Merrick, NY",4.5,163
+"347 B NY-25A Miller Place , NY",4.5,125
+"8133 Fashion Drive Nanuet, NY",4.4,387
+"1 Penn Plaza LIRR Concourse Level New York, NY",4.6,203
+"465 Bedford Rd Pleasantville, NY",4.8,332
+"2507 South Road Poughkeepsie, NY",4.9,281
+"18 Purdy Ave Rye, NY",4.5,116
+"82 7th Avenue Brooklyn, NY",4.6,115
+"1275 Woodrow Road Staten Island , NY",4.9,131
+"2655 Richmond Avenue Staten Island, NY",4.5,116
+"3 Main Street Tarrytown, NY",4.4,133
+"750 7th Ave New York, NY",4.5,154
+"124 E 14th Street New York, NY",4.4,87
+"1471 2nd Ave New York, NY",4.7,226
+"2327 Broadway West 84th St New York, NY",4.7,287
+"230 Park Avenue New York, NY",4.1,80
+"570 Lexington Ave New York, NY",4.4,51
+"1 New York Plaza New York, NY",4.6,109
+"245 Main Street White Plains, NY",4.8,134
+"181 Bedford Ave Brooklyn, NY",4.5,181
+"214 Red Apple Court Central Valley, NY",4.5,87
+"104 East Franklin Street Chapel Hill, NC",4.7,29
+"744B 9th Street Durham, NC",4.8,254
+"222 S Main Street, Suite 1A Mooresville, NC",4.9,143
+"2526 Hillsborough Street, Suite 101 Raleigh, NC",4.8,169
+"939 International Drive, Mayfaire Town Center, Unit M100 Wilmington, NC",4.7,648
+"1952 North High St. Columbus, OH",4.7,370
+"1200 Brown Street, Space 105 Dayton, OH",4.9,294
+"6704 Perimeter Loop Road Dublin, OH",4.9,189
+"124 W Loveland Ave Loveland, OH",4.9,105
+"5765 N Hamilton Road Columbus, OH",4.9,709
+"2193 Quarry Trails Drive Columbus, OH",4.9,157
+"734B North Main Street Springboro, OH",4.9,131
+"236 S 11th St Philadelphia, PA",4.4,132
+"2605 Street Road Bensalem, PA",4.8,204
+"310 E 3rd St Bethlehem, PA",4.7,991
+"3544 Gettysburg Road Camp Hill, PA",4.9,606
+"30 N Hanover Street Carlisle, PA",4.8,422
+"3045 Center Valley Parkway, Suite 118 Center Valley, PA",4.8,751
+"110 Lincoln Highway Fairless Hills, PA",4.7,498
+"2650 Gravel Road Suite 4-C Harrisburg, PA",4.9,442
+"659 East Main Street, Suite 100 Hummelstown, PA",5,190
+"4 Airport Square North Wales, PA",4.7,300
+"3770 Dryland Way Easton, PA",4.9,402
+"2913 S Eagle Rd Newtown, PA",4.9,715
+"807 N 2nd Street Philadelphia, PA",4.5,106
+"482 East Calder Way State College, PA",4.7,388
+"1804 Chestnut Street Philadelphia, PA",4.5,220
+"The Terminal 1707 Smallman Street Pittsburgh, PA",4.9,41
+"1932 Liacouras Walk Philadelphia, PA",4.9,226
+"313 Lancaster Ave Wayne, PA",4.7,438
+"4034 Walnut Street Philadelphia, PA",4.5,144
+"1609 N Main Street Suite 1101 Warrington, PA",4.8,305
+"22 S High St West Chester, PA",4.8,488
+"251 Mundy Street, Suite 102 Wilkes Barre, PA",3.8,54
+"945 Hill Ave. Suite 225 Wyomissing, PA",4.8,178
+"1000 Division Street, Suite 16 East Greenwich, RI",4.8,125
+"622 George Washington Highway Lincoln, RI",4.8,125
+"706 South Mendenhall Road Memphis, TN",4.9,198
+"7415 Southwest Parkway, Building 6 Suite 600 Austin, TX",4.9,198
+"9708 Business Parkway, Suite 102 Helotes, TX",4.9,180
+"7959 Fredericksburg Road, Suite 134 San Antonio, TX",4.9,180
+"9602 Texas 151 Highway San Antonio, TX",4.8,478
+"1100 Emmett Street North Charlottesville, VA",4.8,116
+"2910 District Ave #168 Fairfax, VA",4.7,581
+"3405 Candlers Mountain Road Lynchburg, VA",4.9,150
+"1820 Discovery St Reston, VA",4.2,268
+"11341 West Broad Street, Unit 173 Glen Allen, VA",4.9,8
+"3313 Berlin Turnpike, Unit 8 Newington, CT",5,10
+"4462 Weston Road Davie, FL",4.8,98
+"70 Storrs St. Concord, NH",4.9,418
+"230 Rt 206 N Chester, NJ",4.8,512
+"100 Hudson St Hoboken, NJ",4.4,481
+"3 Brewster Road Newark, NJ",2.4,62
+"279 New Road Somers Point, NJ",4.9,460
+"429 King St Charleston, SC",4.7,477
+"766 S Shelmore Ste 201 Mount Pleasant, SC",4.8,112
+"12400 Highway 290, Suite 440 Austin, TX",5,86
+"22706 US HWY N 281 Suite 104 San Antonio, TX",4.8,635
+"399 N Main St Manahawkin, NJ",4.7,247
+"51 Summit Ave Summit, NJ",4.8,301
+"105 West 72nd Street New York, NY",4.8,99
